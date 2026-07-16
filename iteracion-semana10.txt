@@ -1,0 +1,21 @@
+¿Qué 2 tareas del backlog harías primero?
+
+Permite que el ciudadano consulte el estado de su solicitud.
+Permitir que el coordinador reciba notificaciones de las solicitudes enviadas.
+
+¿Por qué son las más importantes?
+
+Porque son funciones básicas para garantizar la comunicación y seguimiento de los casos.
+El ciudadano puede conocer el avance de su solicitud y el coordinador atender los reportes.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Escribe una definición simple de terminado con al menos 3 criterios. Por ejemplo:
+Funciona.
+Fue probada.
+Quedó registrada en Git.
+
+- La información se encuentra organizada, registrada y disponible para consultar.
+- Funciona correctamente según lo solicitado.
+- Fue probada y no presenta errores.
+- Cumple con los requisitos definidos por los usuarios.
+- Fue validada por el equipo de trabajo.

@@ -1,0 +1,8 @@
+escribe entre 3 y 5 historias de usuario relacionadas con una solución 
+comunitaria o de veeduría.
+
+- Como coordinador deseo recibir notificaciones de todas las solicitudes que me sean enviadas.
+- Como miembro del equipo quiero acceder a los reportes para organizar los casos de mayor prioridad
+a menor prioridad.
+- Como ciudadano deseo consultar el estado de mi solicitud.
+- Como veedor emito un resumen de los reportes que se han presentado durante el último mes.

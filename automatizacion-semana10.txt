@@ -1,0 +1,17 @@
+describe un flujo simple de automatización usando n8n y Telegram.
+
+Debe responder estas preguntas:
+
+¿Qué evento activa el flujo?
+¿Qué mensaje se enviaría a Telegram?
+¿Qué información no debería enviarse por seguridad?
+
+Evento: Nueva petición
+
+Acción: Reporta cualquier suceso a Telegram
+
+Mensaje: Tu petición ha sido recibida correctamente
+
+información que no debe ser enviada: Datos personales, tokens de acceso, ubicaciones, 
+códigos de verificación, fotos de documentos personales, tarjetas de crédito, contraseñas 
+(cualquier otra información privada)
